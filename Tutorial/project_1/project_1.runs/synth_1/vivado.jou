@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sun Jun 25 23:26:35 2023
+# Process ID: 8400
+# Current directory: C:/Work/Basys3/Tutorial/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log sw_led.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sw_led.tcl
+# Log file: C:/Work/Basys3/Tutorial/project_1/project_1.runs/synth_1/sw_led.vds
+# Journal file: C:/Work/Basys3/Tutorial/project_1/project_1.runs/synth_1\vivado.jou
+# Running On: LAPTOP-SB4MQM2L, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 14877 MB
+#-----------------------------------------------------------
+source sw_led.tcl -notrace
